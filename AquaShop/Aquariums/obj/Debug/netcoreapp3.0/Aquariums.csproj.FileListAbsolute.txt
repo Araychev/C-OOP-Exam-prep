@@ -1,0 +1,13 @@
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+H:\C#OOP\OOP ExamPrep\AquaShop\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
