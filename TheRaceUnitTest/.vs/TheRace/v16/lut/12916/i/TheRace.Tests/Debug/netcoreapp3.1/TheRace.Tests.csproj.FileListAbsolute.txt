@@ -1,0 +1,16 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\testhost.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\testhost.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\nunit.engine.core.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.csproj.CopyComplete
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.genruntimeconfig.cache

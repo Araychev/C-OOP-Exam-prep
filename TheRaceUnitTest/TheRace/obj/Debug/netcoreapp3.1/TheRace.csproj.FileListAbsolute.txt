@@ -1,0 +1,9 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\TheRaceUnitTest\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
