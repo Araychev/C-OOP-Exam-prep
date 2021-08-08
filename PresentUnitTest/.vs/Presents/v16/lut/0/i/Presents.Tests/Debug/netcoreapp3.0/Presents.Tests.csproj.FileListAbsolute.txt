@@ -1,0 +1,16 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Mono.Cecil.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.csproj.CopyComplete
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentUnitTest\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.genruntimeconfig.cache

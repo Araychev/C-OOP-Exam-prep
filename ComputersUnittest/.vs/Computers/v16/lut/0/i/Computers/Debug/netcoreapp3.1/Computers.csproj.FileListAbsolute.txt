@@ -1,0 +1,10 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.1\Computers.csproj.CopyComplete
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.1\Computers.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

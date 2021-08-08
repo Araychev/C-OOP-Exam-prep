@@ -1,0 +1,13 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\ComputersUnittest\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

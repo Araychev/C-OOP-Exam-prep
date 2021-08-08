@@ -1957,16 +1957,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
-      },
-      "Aquariums/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/Aquariums.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Aquariums.dll": {}
-        }
       }
     }
   },
@@ -6509,16 +6499,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
-    },
-    "Aquariums/1.0.0": {
-      "type": "project",
-      "path": "../Aquariums/Aquariums.csproj",
-      "msbuildProject": "../Aquariums/Aquariums.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Aquariums >= 1.0.0",
+      "H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums\\Aquariums.csproj",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "NUnit >= 3.9.0",
       "NUnit3TestAdapter >= 3.9.0"
@@ -6531,11 +6516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#OOP\\OOP ExamPrep\\AquaShop\\Aquariums.Tests\\Aquariums.Tests.csproj",
+      "projectUniqueName": "H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums.Tests\\Aquariums.Tests.csproj",
       "projectName": "Aquariums.Tests",
-      "projectPath": "H:\\C#OOP\\OOP ExamPrep\\AquaShop\\Aquariums.Tests\\Aquariums.Tests.csproj",
+      "projectPath": "H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums.Tests\\Aquariums.Tests.csproj",
       "packagesPath": "C:\\Users\\ily_g\\.nuget\\packages\\",
-      "outputPath": "H:\\C#OOP\\OOP ExamPrep\\AquaShop\\Aquariums.Tests\\obj\\",
+      "outputPath": "H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6556,8 +6541,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "H:\\C#OOP\\OOP ExamPrep\\AquaShop\\Aquariums\\Aquariums.csproj": {
-              "projectPath": "H:\\C#OOP\\OOP ExamPrep\\AquaShop\\Aquariums\\Aquariums.csproj"
+            "H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums\\Aquariums.csproj": {
+              "projectPath": "H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums\\Aquariums.csproj"
             }
           }
         }
@@ -6617,5 +6602,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums\\Aquariums.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "H:\\C#OOP\\OOP ExamPrep\\C-OOP-Exam-prep\\AquaShop\\Aquariums\\Aquariums.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
 }

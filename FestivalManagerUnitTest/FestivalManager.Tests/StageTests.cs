@@ -5,6 +5,8 @@
 //using System.Collections.Generic;
 //using FestivalManager.Entities;
 
+using FestivalManager.Entities;
+
 namespace FestivalManager.Tests
 {
     using NUnit.Framework;
