@@ -1,0 +1,2 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager.Tests\Debug\netcoreapp3.1\FestivalManager.Tests.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager.Tests\Debug\netcoreapp3.1\FestivalManager.Tests.AssemblyInfo.cs

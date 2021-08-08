@@ -1,0 +1,52 @@
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(16,17): error CS0246: The type or namespace name 'Stage' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(21,25): error CS0246: The type or namespace name 'Stage' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(27,13): error CS0246: The type or namespace name 'Performer' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(27,39): error CS0246: The type or namespace name 'Performer' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(35,13): error CS0246: The type or namespace name 'Performer' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(35,39): error CS0246: The type or namespace name 'Performer' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(44,13): error CS0246: The type or namespace name 'Song' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(44,29): error CS0246: The type or namespace name 'Song' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(52,13): error CS0246: The type or namespace name 'Song' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(52,29): error CS0246: The type or namespace name 'Song' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(60,33): error CS0246: The type or namespace name 'Performer' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(61,28): error CS0246: The type or namespace name 'Song' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(77,33): error CS0246: The type or namespace name 'Performer' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\StageTests.cs(78,28): error CS0246: The type or namespace name 'Song' could not be found (are you missing a using directive or an assembly reference?)
+[13:05:09.332 Verbose] - BuildManager - G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Roslyn\Microsoft.CSharp.Core.targets(71,5): error MSB4181: The "Csc" task returned false but did not log an error.
+[13:05:09.336 Verbose] - BuildManager - Some of the file paths defined in the csproj under the Live Unit Testing build path are missing. Verify whether these files should be present under the Live Unit Testing build path and if necessary update the csproj definition to look these files up in a different place.
+[13:05:09.336 Verbose] - BuildManager - Item _OutputPathItem 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\Debug\netcoreapp3.1\' evaluated via:
+_OutputPathItem: '$(OutDir)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:309
+  OutDir: '$(OutputPath)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:227
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:242
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\' @ H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\FestivalManager.Tests.csproj:0
+        Configuration: 'Debug'
+[13:05:09.337 Verbose] - BuildManager - Item AppConfigFileDestination 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\Debug\netcoreapp3.1\FestivalManager.Tests.dll.config' evaluated via:
+AppConfigFileDestination: '$(OutDir)$(TargetFileName).config' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:337
+  OutDir: '$(OutputPath)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:227
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:242
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\' @ H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\FestivalManager.Tests.csproj:0
+        Configuration: 'Debug'
+  TargetFileName: '$(TargetName)$(TargetExt)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:247
+    TargetName: '$(AssemblyName)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:239
+      AssemblyName: '$(MSBuildProjectName)' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.props:32
+        MSBuildProjectName: 'FestivalManager.Tests'
+    TargetExt: '.dll' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.BeforeCommon.targets:99
+[13:05:09.337 Verbose] - BuildManager - Item _DebugSymbolsOutputPath 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\Debug\netcoreapp3.1\FestivalManager.Tests.pdb' evaluated via:
+_DebugSymbolsOutputPath: '@(_DebugSymbolsIntermediatePath->'$(OutDir)%(Filename)%(Extension)')' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:403
+  OutDir: '$(OutputPath)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:227
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:242
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\' @ H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\FestivalManager.Tests.csproj:0
+        Configuration: 'Debug'
+[13:05:09.337 Verbose] - BuildManager - Item _ApplicationManifestFinal 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\Debug\netcoreapp3.1\Native.FestivalManager.Tests.manifest' evaluated via:
+_ApplicationManifestFinal: '$(OutDir)$(_DeploymentTargetApplicationManifestFileName)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:441
+  OutDir: '$(OutputPath)' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:227
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:242
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager.Tests\' @ H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\FestivalManager.Tests\FestivalManager.Tests.csproj:0
+        Configuration: 'Debug'
+  _DeploymentTargetApplicationManifestFileName: 'Native.$(AssemblyName).manifest' @ G:\Visual Studio 2019 Enterprice\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:263
+    AssemblyName: '$(MSBuildProjectName)' @ C:\Program Files\dotnet\sdk\5.0.302\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.props:32
+      MSBuildProjectName: 'FestivalManager.Tests'

@@ -1,0 +1,11 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager\Debug\netcoreapp3.1\FestivalManager.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager\Debug\netcoreapp3.1\FestivalManager.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\b\FestivalManager\Debug\netcoreapp3.1\FestivalManager.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager\Debug\netcoreapp3.1\FestivalManager.csproj.AssemblyReference.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager\Debug\netcoreapp3.1\FestivalManager.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager\Debug\netcoreapp3.1\FestivalManager.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager\Debug\netcoreapp3.1\FestivalManager.csproj.CopyComplete
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager\Debug\netcoreapp3.1\FestivalManager.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\FestivalManagerUnitTest\.vs\FestivalManager\v16\lut\0\i\FestivalManager\Debug\netcoreapp3.1\FestivalManager.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\PresentsUnitTest\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
