@@ -1,0 +1,13 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\Easter\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache
