@@ -1,0 +1,13 @@
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.exe
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.dll
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.pdb
+H:\C#OOP\OOP ExamPrep\C-OOP-Exam-prep\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
